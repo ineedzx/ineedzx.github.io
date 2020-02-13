@@ -158,7 +158,7 @@ body {
   background: #fff;
   color: #555;
   font-family: 'Times New Roman', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 2em;
+  font-size: 1em;
   line-height: 2;
 }
 @media (max-width: 991px) {
@@ -1211,7 +1211,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c9ff38;
+  background: #323b8f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
